@@ -1,4 +1,5 @@
-HELLO DEVELOPER's
+<h1>Hi 👋, I'm Erkan</h1>
+
 
 - 🔭 I’m currently working on HTML/CSS/REACT/JAVASCRİPT 
 - 🌱 I’m currently learning HTML/CSS/REACT
